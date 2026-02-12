@@ -14,4 +14,8 @@ x-scheme-handler/http=firefox.desktop
 x-scheme-handler/https=firefox.desktop
 EOF
 
+<<<<<<< HEAD
 echo "Firefox défini par défaut pour tous les utilisateurs ✔"
+=======
+echo "Firefox défini par défaut pour tous les utilisateurs ✔"
+>>>>>>> 2e5d248 (Modif all)
